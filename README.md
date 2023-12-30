@@ -31,7 +31,11 @@ Programming Language: Java
 Game Engine/Libraries:  jMonkeyEngine, LWJGL, OpenGL
 Other Tools: [Blender, Photoshop, etc.]
 How to Run the Game
+
 To play Echoes Of Hope, follow these steps:
+
+Clone the repository to your local machine using Git or download the ZIP file.
+Open the project in your IDE of choice (we recommend Visual Studio Code).
 
 Download the prefab using this link: [destroyed_buildings.rar](https://www.mediafire.com/file/6g7ze0kn9ncvss3/destroyed_buildings.rar/file)
 
@@ -43,12 +47,11 @@ Move the Model File: Place the "destroyed_buildings.glb" file into the following
 src/main/resources/Scenes/destroyed_buildings.glb
 This ensures that the model file is placed in the specified directory within your project structure.
 
-Clone the repository to your local machine using Git or download the ZIP file.
-Open the project in your IDE of choice (we recommend Visual Studio Code).
+
 Compile and run the main class Main.java.
 
 Enjoy the game! Hope you have fun playing it as much as we had fun developing it!
 
-Contributors
+Contributors : 
 Samer Gassouma
 Yasmine Ghomrassi
