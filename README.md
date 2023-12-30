@@ -30,25 +30,31 @@ Technologies Used
 Programming Language: Java
 Game Engine/Libraries:  jMonkeyEngine, LWJGL, OpenGL
 Other Tools: [Blender, Photoshop, etc.]
-How to Run the Game
+## How to Run the Game
 
 To play Echoes Of Hope, follow these steps:
 
-Clone the repository to your local machine using Git or download the ZIP file.
-Open the project in your IDE of choice (we recommend Visual Studio Code).
+1. Clone the repository to your local machine using Git or download the ZIP file.
+2. Open the project in your IDE of choice (we recommend Visual Studio Code).
 
-Download the prefab using this link: [destroyed_buildings.rar](https://www.mediafire.com/file/6g7ze0kn9ncvss3/destroyed_buildings.rar/file)
+### Download and Place the Prefab
+
+Download the prefab using this link: [destroyed_buildings.rar](link_to_download_prefab).
 
 Once downloaded, follow these steps:
 
-Extract the File: Extract the downloaded file (destroyed_buildings.rar) to your local machine.
-Locate the Model File: Inside the extracted folder, you'll find a file named "destroyed_buildings.glb".
-Move the Model File: Place the "destroyed_buildings.glb" file into the following directory of your project:
-src/main/resources/Scenes/destroyed_buildings.glb
-This ensures that the model file is placed in the specified directory within your project structure.
+- **Extract the File:** Extract the downloaded file (destroyed_buildings.rar) to your local machine.
+- **Locate the Model File:** Inside the extracted folder, you'll find a file named "destroyed_buildings.glb".
+- **Move the Model File:** Place the "destroyed_buildings.glb" file into the following directory of your project: `src/main/resources/Scenes/destroyed_buildings.glb`. This ensures that the model file is placed in the specified directory within your project structure.
 
+### Building and Running with Gradle
 
-Compile and run the main class Main.java.
+To build and run the game, use the following Gradle commands:
+
+```bash
+./gradlew build
+./gradlew run
+
 
 Enjoy the game! Hope you have fun playing it as much as we had fun developing it!
 
