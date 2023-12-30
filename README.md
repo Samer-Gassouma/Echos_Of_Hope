@@ -1,3 +1,15 @@
+NOTE BEFORE YOU RUN THE GAME  
+
+Download the prefab using this link: [destroyed_buildings.rar](https://www.mediafire.com/file/6g7ze0kn9ncvss3/destroyed_buildings.rar/file)
+
+Once downloaded, follow these steps:
+
+Extract the File: Extract the downloaded file (destroyed_buildings.rar) to your local machine.
+Locate the Model File: Inside the extracted folder, you'll find a file named "destroyed_buildings.glb".
+Move the Model File: Place the "destroyed_buildings.glb" file into the following directory of your project:
+src/main/resources/Scenes/destroyed_buildings.glb
+This ensures that the model file is placed in the specified directory within your project structure.
+
 Echoes Of Hope - Java Game Project
 Welcome to Echoes Of Hope repository, a captivating Java game project developed by Samer Gassouma and Yasmine Ghomrassi as part of our Java programming course at FSM. This project showcases our skills in Java programming, game development, and problem-solving.
 
@@ -20,6 +32,16 @@ Game Engine/Libraries:  jMonkeyEngine, LWJGL, OpenGL
 Other Tools: [Blender, Photoshop, etc.]
 How to Run the Game
 To play Echoes Of Hope, follow these steps:
+
+Download the prefab using this link: [destroyed_buildings.rar](https://www.mediafire.com/file/6g7ze0kn9ncvss3/destroyed_buildings.rar/file)
+
+Once downloaded, follow these steps:
+
+Extract the File: Extract the downloaded file (destroyed_buildings.rar) to your local machine.
+Locate the Model File: Inside the extracted folder, you'll find a file named "destroyed_buildings.glb".
+Move the Model File: Place the "destroyed_buildings.glb" file into the following directory of your project:
+src/main/resources/Scenes/destroyed_buildings.glb
+This ensures that the model file is placed in the specified directory within your project structure.
 
 Clone the repository to your local machine using Git or download the ZIP file.
 Open the project in your IDE of choice (we recommend Visual Studio Code).
