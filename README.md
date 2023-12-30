@@ -52,9 +52,9 @@ Once downloaded, follow these steps:
 To build and run the game, use the following Gradle commands:
 
 ```bash
-./gradlew build
-./gradlew run
-
+gradlew build
+gradlew run
+```
 
 Enjoy the game! Hope you have fun playing it as much as we had fun developing it!
 
