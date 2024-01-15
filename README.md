@@ -39,7 +39,7 @@ To play Echoes Of Hope, follow these steps:
 
 ### Download and Place the Prefab
 
-Download the prefab using this link: [destroyed_buildings.rar](link_to_download_prefab).
+Download the prefab using this link: [destroyed_buildings.rar](https://www.mediafire.com/file/6g7ze0kn9ncvss3/destroyed_buildings.rar/file)).
 
 Once downloaded, follow these steps:
 
