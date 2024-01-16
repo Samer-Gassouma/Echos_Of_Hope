@@ -61,3 +61,7 @@ Enjoy the game! Hope you have fun playing it as much as we had fun developing it
 Contributors : 
 Samer Gassouma
 Yasmine Ghomrassi
+
+https://github.com/Samer-Gassouma/Echos_Of_Hope/assets/63505773/a038c4d0-ffa7-45a5-b5c7-131648c6350c
+
+
